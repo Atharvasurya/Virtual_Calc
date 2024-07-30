@@ -16,11 +16,11 @@ OpenCV: For real-time computer vision tasks.
 MediaPipe: For hand gesture recognition.
 Google's Gemini LLM Model: For interpreting and solving mathematical equations.
 
-Usage
-## Draw: Use your index finger to draw equations.
-## Navigate: Raise two fingers to navigate the canvas.
-## Reset: Raise your thumb to reset the canvas.
-## Submit: Raise your small finger to submit the drawing for solving.
+# Usage
+Draw: Use your index finger to draw equations.
+# Navigate: Raise two fingers to navigate the canvas.
+# Reset: Raise your thumb to reset the canvas.
+# Submit: Raise your small finger to submit the drawing for solving.
 
 
 
